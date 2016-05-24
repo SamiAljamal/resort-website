@@ -1,0 +1,27 @@
+body {
+    background-image: url("resort.jpg");
+    background-repeat: no-repeat;
+  }
+h1{
+  color: #FFFFFF;
+  font-size: 45px;
+  text-align: center;
+}
+a{
+  color: #F16262;
+  font-size: 20px;
+  text-decoration: none;
+
+}
+
+p {
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 17px;
+}
+
+ul {
+  color: #FFFFFF;
+  text-align: left;
+  font-size: 13px
+}
