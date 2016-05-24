@@ -1,27 +1,21 @@
-body {
-    background-image: url("resort.jpg");
-    background-repeat: no-repeat;
-  }
-h1{
-  color: #FFFFFF;
-  font-size: 45px;
+body{
+  background-color: #EEEEEE;
+  font-family: fantasy;
   text-align: center;
 }
-a{
-  color: #F16262;
-  font-size: 20px;
+
+h1 {
+  color: #679CCE;
+  font-size: 50px;
+  font-family: fantasy;
+}
+
+a {
   text-decoration: none;
-
-}
-
-p {
-  color: #FFFFFF;
-  text-align: center;
-  font-size: 17px;
+  color: #C70039;
+  font-family: fantasy;
 }
 
 ul {
-  color: #FFFFFF;
-  text-align: left;
-  font-size: 13px
+  text-align: center;
 }
